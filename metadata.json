@@ -1,0 +1,5 @@
+{
+  "name": "AquaDrop",
+  "description": "Pure water delivery & subscription app featuring quick reorders, live order tracking, address management, and flexible payment modes.",
+  "requestFramePermissions": ["geolocation"]
+}
